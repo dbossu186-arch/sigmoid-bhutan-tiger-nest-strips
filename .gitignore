@@ -1,0 +1,7 @@
+data/
+TASK.md
+__pycache__
+.DS_Store
+.venv/
+reconstructed_image.png
+reconstructed_order.json
